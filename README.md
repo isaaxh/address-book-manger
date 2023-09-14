@@ -1,6 +1,8 @@
 # Address Book Manager
 
-    An address book to store all your contact information. [Try it](https://address-book-manager-isaaxh.netlify.app)
+An address book to store all your contact information.
+
+[Try it](https://address-book-manager-isaaxh.netlify.app)
 
 ## MVP
 
