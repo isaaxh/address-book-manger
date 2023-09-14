@@ -1,5 +1,11 @@
+import Layout from "./Layout";
+
 const App = () => {
-  return <div className="bg-red-900">App</div>;
+  return (
+    <div className="h-screen">
+      <Layout />
+    </div>
+  );
 };
 
 export default App;
